@@ -1,4 +1,8 @@
 _repo: Das-Gluck-ist-immer-da-Heitere-Geschichten-und-Plaudereien_50293
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50293-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmidt, Otto Ernst
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33129
     wikipedia: http://de.wikipedia.org/wiki/Otto_Ernst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50293#Das-Gluck-ist-immer-da-Heitere-Geschichten-und-Plaudereien
 gutenberg_issued: '2015-10-24'
 gutenberg_type: Text
 identifiers:
